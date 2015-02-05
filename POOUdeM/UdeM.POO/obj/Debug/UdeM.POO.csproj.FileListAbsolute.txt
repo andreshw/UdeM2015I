@@ -1,0 +1,6 @@
+E:\PruebasConcepto\POOUdeM\UdeM.POO\bin\Debug\UdeM.POO.exe.config
+E:\PruebasConcepto\POOUdeM\UdeM.POO\bin\Debug\UdeM.POO.exe
+E:\PruebasConcepto\POOUdeM\UdeM.POO\bin\Debug\UdeM.POO.pdb
+E:\PruebasConcepto\POOUdeM\UdeM.POO\obj\Debug\UdeM.POO.csprojResolveAssemblyReference.cache
+E:\PruebasConcepto\POOUdeM\UdeM.POO\obj\Debug\UdeM.POO.exe
+E:\PruebasConcepto\POOUdeM\UdeM.POO\obj\Debug\UdeM.POO.pdb

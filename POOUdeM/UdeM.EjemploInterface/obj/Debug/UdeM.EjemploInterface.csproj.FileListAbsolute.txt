@@ -1,0 +1,6 @@
+E:\PruebasConcepto\POOUdeM\UdeM.EjemploInterface\bin\Debug\UdeM.EjemploInterface.exe.config
+E:\PruebasConcepto\POOUdeM\UdeM.EjemploInterface\bin\Debug\UdeM.EjemploInterface.exe
+E:\PruebasConcepto\POOUdeM\UdeM.EjemploInterface\bin\Debug\UdeM.EjemploInterface.pdb
+E:\PruebasConcepto\POOUdeM\UdeM.EjemploInterface\obj\Debug\UdeM.EjemploInterface.csprojResolveAssemblyReference.cache
+E:\PruebasConcepto\POOUdeM\UdeM.EjemploInterface\obj\Debug\UdeM.EjemploInterface.exe
+E:\PruebasConcepto\POOUdeM\UdeM.EjemploInterface\obj\Debug\UdeM.EjemploInterface.pdb
